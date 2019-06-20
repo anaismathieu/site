@@ -1,0 +1,31 @@
+.tiles article {
+	width: 50%;
+}
+
+.tiles article:nth-child(4n - 1), .tiles article:nth-child(4n - 2) {
+	width: 50%;
+}
+
+.tiles article:nth-child(6n - 5):before {
+	background-color: #8ea2c1;
+}
+
+.tiles article:nth-child(6n - 4):before {
+	background-color: #8797af;
+}
+
+.tiles article:nth-child(6n - 3):before {
+	background-color: #a7adc6;
+}
+
+.tiles article:nth-child(6n - 2):before {
+	background-color: #0685aa;
+}
+
+.tiles article:nth-child(6n - 1):before {
+	background-color: #8ea9e8;
+}
+
+.tiles article:nth-child(6n):before {
+	background-color: #87c5a4;
+}

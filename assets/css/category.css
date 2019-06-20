@@ -1,0 +1,16 @@
+#banner.webdesign {
+	background-image: linear-gradient(to right top, #051937, #004d7a, #008793, #00bf72, #a8eb12);
+}
+
+#banner.visualcom {
+	background-image: linear-gradient(to right top, #e83e1e, #ef8178, #efae63, #ffd04d, #ffe578);
+}
+
+#banner.visualid {
+	background-image: linear-gradient(to right top, #5c186f, #a04ea5, #d0679e, #d04b77, #c01e50);
+}
+
+
+#banner.style2:after {
+	background: none;
+}
